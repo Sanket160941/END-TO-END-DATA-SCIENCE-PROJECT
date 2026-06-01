@@ -65,6 +65,6 @@ This project has practical applications in healthcare support systems, symptom-b
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/449c89fb-58b6-46dd-8738-4659c15486d8" />
 
-<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d0b0fbec-a4f9-4735-bcf6-7ce0512f0775" />
-
 <img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/b35d31ce-edc1-4f1c-a6f3-e1b255811a92" />
+
+<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d0b0fbec-a4f9-4735-bcf6-7ce0512f0775" />
