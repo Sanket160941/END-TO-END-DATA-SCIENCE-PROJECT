@@ -28,9 +28,6 @@ A significant aspect of the project was the development of a complete web-based 
 This project has practical applications in healthcare support systems, symptom-based disease screening platforms, telemedicine services, clinical decision support tools, healthcare chatbots, and digital health applications. By combining data preprocessing, machine learning, web technologies, and intelligent user interaction, the system demonstrates how predictive analytics can assist users in obtaining preliminary health insights quickly and efficiently.
 
 *OUTPUTS*:
-<img width="1336" height="866" alt="Image" src="https://github.com/user-attachments/assets/283361e1-4d15-4b87-8627-c0c6cc5a419e" />
-
-<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d1fa5476-f145-413c-ba72-8408d6302355" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/47cf7255-49ce-4d16-9cdd-a15c6ad526e0" />
 
@@ -51,6 +48,10 @@ This project has practical applications in healthcare support systems, symptom-b
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4ee83e92-ad7a-438e-9406-ee3e4d789d17" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/ff60e546-69db-4675-98c3-0d3960a88b13" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d1fa5476-f145-413c-ba72-8408d6302355" />
+
+<img width="1336" height="866" alt="Image" src="https://github.com/user-attachments/assets/283361e1-4d15-4b87-8627-c0c6cc5a419e" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/0bfbdd70-4f40-40c6-a80d-d59b1dff9a47" />
 
