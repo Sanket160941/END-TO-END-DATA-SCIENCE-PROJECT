@@ -45,11 +45,15 @@ This project has practical applications in healthcare support systems, symptom-b
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9db7616b-7d04-47cb-afcf-5c6f04c2c379" />
 
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d1fa5476-f145-413c-ba72-8408d6302355" />
+
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4ee83e92-ad7a-438e-9406-ee3e4d789d17" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/ff60e546-69db-4675-98c3-0d3960a88b13" />
 
-<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d1fa5476-f145-413c-ba72-8408d6302355" />
+<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/990e0e01-6ac7-4183-abd3-d148252f7df1" />
+
+<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/703ea6dc-e381-4c09-901b-34b28c23ef09" />
 
 <img width="1336" height="866" alt="Image" src="https://github.com/user-attachments/assets/283361e1-4d15-4b87-8627-c0c6cc5a419e" />
 
@@ -60,10 +64,6 @@ This project has practical applications in healthcare support systems, symptom-b
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/936039d1-7d5a-42c6-bacb-867e444dd388" />
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/449c89fb-58b6-46dd-8738-4659c15486d8" />
-
-<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/990e0e01-6ac7-4183-abd3-d148252f7df1" />
-
-<img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/703ea6dc-e381-4c09-901b-34b28c23ef09" />
 
 <img width="2557" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d0b0fbec-a4f9-4735-bcf6-7ce0512f0775" />
 
